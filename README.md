@@ -17,7 +17,7 @@ This repository contains **100 small-to-medium Rust projects**. Each project liv
 
 ## 🔗 Quick Links
 
-- 📈 [Progress Tracker](./progress.md)
+- 📈 [Progress Tracker](./%20progress.md)
 - 📝 [Daily Notes](./notes/)
 
 ---
