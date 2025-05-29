@@ -1,4 +1,4 @@
-# Day 001 – Hello Rust CLI
+# Project 001 – Hello Rust CLI
 
 ## What I Built
 A simple Rust CLI that prints "Hello, Rust!" to the console using `println!`.
