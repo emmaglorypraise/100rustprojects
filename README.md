@@ -15,19 +15,20 @@ This repository contains **100 small-to-medium Rust projects**. Each project liv
 
 ---
 
-##  Quick Links
+## Quick Links
 
 - [Progress Tracker](./%20progress.md)
 - [Daily Notes](./notes/)
 - [Project Code](./projects/)
-- [Glossary](./glossary.md ) 
+- [Glossary](./glossary.md)
 
 ---
 
 ## Progress
 
-<!-- #### ✅ Completed: `02 / 100` -->
-![Progress](https://img.shields.io/badge/Completed-2%25-yellowgreen?style=for-the-badge)
+<!-- #### ✅ Completed: `03 / 100` -->
+
+![Progress](https://img.shields.io/badge/Completed-3%25-yellowgreen?style=for-the-badge)
 
 ---
 
@@ -49,11 +50,13 @@ Each project follows this folder structure:
 │ └── ...
 
 ```
+
 ---
 
 ## What I'm Learning
 
 Throughout this challenge, I’ll explore:
+
 - Rust basics: ownership, lifetimes, error handling
 - CLI development
 - Web servers & REST APIs
@@ -80,6 +83,7 @@ Spotted an error? Want to suggest a project idea or improvement?
 Feel free to [open an issue](https://github.com/emmaglorypraise/100rustprojects/issues) or message me on Twitter. Always open to collaboration and learning together.
 
 ---
+
 <!-- 
 ## Support This Journey
 
@@ -88,4 +92,3 @@ If you like what I’m doing, consider:
 - Retweeting my progress
 
 Let’s learn Rust — one project at a time! 🦀
-

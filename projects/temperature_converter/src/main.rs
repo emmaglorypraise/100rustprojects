@@ -12,6 +12,7 @@ fn main() {
         println!("5: Celsius to Kelvin");
         println!("6: Fehrenheit to Kelvin");
         println!("Please select an option (1-6):");
+        io::stdout().flush().unwrap();    
 
         let mut choice = String::new();
         io::stdin().read_line(&mut choice).expect("Failed to read input");
