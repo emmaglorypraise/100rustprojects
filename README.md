@@ -26,9 +26,9 @@ This repository contains **100 small-to-medium Rust projects**. Each project liv
 
 ## Progress
 
-<!-- #### ✅ Completed: `03 / 100` -->
+<!-- #### ✅ Completed: `04 / 100` -->
 
-![Progress](https://img.shields.io/badge/Completed-3%25-yellowgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Completed-4%25-yellowgreen?style=for-the-badge)
 
 ---
 

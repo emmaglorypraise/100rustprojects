@@ -1,1 +1,0 @@
-/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/simple_calculator/target/debug/simple_calculator: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/simple_calculator/src/main.rs
