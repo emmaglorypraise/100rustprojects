@@ -39,7 +39,6 @@ fn main() {
         _ => unreachable!(),
     };
 
-
     let secret_number = rand::thread_rng().gen_range(1..=max_number);
 
     println!("I am thinking of a number between 1 and {}. You have {} attempts to guess it.",

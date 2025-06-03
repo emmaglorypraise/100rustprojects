@@ -1,0 +1,1 @@
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/palindrome_checker/target/debug/palindrome_checker: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/palindrome_checker/src/main.rs
