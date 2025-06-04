@@ -1,0 +1,1 @@
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/prime_number_checker/target/debug/prime_number_checker: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/prime_number_checker/src/main.rs

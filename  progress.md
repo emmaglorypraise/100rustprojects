@@ -8,9 +8,9 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 
 - **Started on:** 28/05/2025
 - **Target end date:** 28/08/2025
-- **Current streak:** 1 days 
+- **Current streak:** 2 days 
 - **Longest streak:** 4 days 
-- **Projects completed:** 07/100 
+- **Projects completed:** 09/100 
 
 ---
 
@@ -24,7 +24,9 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 004 | 31/05/2025 | Guessing Game  | 🧮 CLI   | ✅ Done  | [View](./projects/guessing_game/)  | [Read](./notes/guessing_game.md)  | 
 | 005 | 03/06/2025 | Word Counter  | 🧮 CLI & 📁 File Handling   | ✅ Done  | [View](/projects/word_counter/)  | [Read](/notes/word_counter.md)    | 
 | 006 | 03/06/2025 | BMI Calculator  | 🧮 CLI  | ✅ Done  | [View](/projects/bmi_calculator/)  | [Read](/notes/bmi_calculator.md)    | 
-| 007 | 03/06/2025 | BMI Calculator  | 🧮 CLI  | ✅ Done  | [View](/projects/palindrome_checker/)  | [Read](/notes/palindrome.md)    | 
+| 007 | 03/06/2025 | Palindrome Checker  | 🧮 CLI  | ✅ Done  | [View](/projects/palindrome_checker/)  | [Read](/notes/palindrome.md)    | 
+| 008 | 04/06/2025 | Fibonacci Generator  | 🧮 CLI  | ✅ Done  | [View](/projects/fibonacci_generator/)  | [Read](/notes/fibonacci_generator.md)    | 
+| 009 | 04/06/2025 | Prime Number Checker  | 🧮 CLI  | ✅ Done  | [View](/projects/prime_number_checker/)  | [Read](/notes/prime_number_checker.md)   | 
 | ... | ... | ...  | ...  | ⏳ Pending - 🔄 WIP  | ...  | ...     | 
 > 100 projects coming soon. Watch this repo to follow my progress!
 
