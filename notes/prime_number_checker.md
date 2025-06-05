@@ -9,3 +9,4 @@ Prime number is a whole number greater than 1 that cannot be exactly divided by 
 ## Notes
 Added extra features including:
 Acertain if it is a prime number and find all the prime number up to that number
+** To do: Find prime factor of a given number
