@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "description": "Go to dentist",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "description": "Buy a car",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "description": "Buy eggs",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "description": "Buy bread",
+    "completed": false
+  }
+]
