@@ -26,7 +26,9 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 006 | 03/06/2025 | BMI Calculator  | 🧮 CLI  | ✅ Done  | [View](/projects/bmi_calculator/)  | [Read](/notes/bmi_calculator.md)    | 
 | 007 | 03/06/2025 | Palindrome Checker  | 🧮 CLI  | ✅ Done  | [View](/projects/palindrome_checker/)  | [Read](/notes/palindrome.md)    | 
 | 008 | 04/06/2025 | Fibonacci Generator  | 🧮 CLI  | ✅ Done  | [View](/projects/fibonacci_generator/)  | [Read](/notes/fibonacci_generator.md)    | 
-| 009 | 04/06/2025 | Prime Number Checker  | 🧮 CLI  | ✅ Done  | [View](/projects/prime_number_checker/)  | [Read](/notes/prime_number_checker.md)   | 
+| 009 | 05/06/2025 | To-Do List App  | 🧮 CLI & 📁 File Handling | ✅ Done  | [View](/projects/todo_list/)  | [Read](/notes/todo_list.md)   | 
+| 010 | 06/06/2025 | Basic Timer Tool  | 🧮 CLI  | ✅ Done  | [View](/projects/timer_tool/)  | [Read](/notes/timer_tool.md)   | 
+| 011 | 06/06/2025 | Rock-Paper-Scissors Game  | 🧮 CLI  | ✅ Done  | [View](/projects/rock_paper_scissors/)  | [Read](/notes/rock-paper-scissors.md)   | 
 | ... | ... | ...  | ...  | ⏳ Pending - 🔄 WIP  | ...  | ...     | 
 > 100 projects coming soon. Watch this repo to follow my progress!
 
