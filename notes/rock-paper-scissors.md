@@ -1,4 +1,4 @@
-# Project 008 – Rock-Paper-Scissors Game 
+# Project 012 – Rock-Paper-Scissors Game 
 
 ## What I Built
 A Rust CLI game where user can play the Rock-Paper-Scissors game against the computer.

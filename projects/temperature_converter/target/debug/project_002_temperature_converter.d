@@ -1,1 +1,0 @@
-/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/temperature_converter/target/debug/project_002_temperature_converter: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/temperature_converter/src/main.rs

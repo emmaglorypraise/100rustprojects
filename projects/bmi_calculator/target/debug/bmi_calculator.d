@@ -1,1 +1,0 @@
-/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/bmi_calculator/target/debug/bmi_calculator: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/bmi_calculator/src/main.rs

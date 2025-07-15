@@ -1,1 +1,0 @@
-searchState.loadedDescShard("hello_rust", 0, "")

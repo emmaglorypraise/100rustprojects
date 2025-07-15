@@ -1,1 +1,0 @@
-/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/rock_paper_scissors/target/debug/rock_paper_scissors: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/rock_paper_scissors/src/main.rs
