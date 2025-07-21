@@ -35,10 +35,8 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 015 | 15/07/2025 | Memory Management Demo | 🧮 CLI  | ✅ Done  | [View](/projects/memory_mgt_demo/)  | [Read](/notes/memory_mgt_demo.md)   | 
 | 016 | 21/07/2025 | Asset Management  | 🧮 CLI  | ✅ Done  | [View](/projects/asset-tracker/)  | [Read](/notes/memory_mgt_demo.md)   | 
 | 017 | 21/07/2025 | String Manipulation Tool | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
-
-| 018 | 21/07/2025 | Struct-Based Contact Manager | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
-
-| 019 | 21/07/2025 | String Manipulation Tool | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
+| 018 | 21/07/2025 | Contact Manager | 🧮 CLI  | ✅ Done  | [View](/projects/contact_manager/)  | [Read](/notes/contact_manager.md)   | 
+| 019 | 21/07/2025 | Simple Banking System | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
 | ... | ... | ...  | ...  | ⏳ Pending - 🔄 WIP  | ...  | ...     | 
 > 100 projects coming soon. Watch this repo to follow my progress!
 
