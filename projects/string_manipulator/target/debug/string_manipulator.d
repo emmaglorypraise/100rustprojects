@@ -1,0 +1,1 @@
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/string_manipulator/target/debug/string_manipulator: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/string_manipulator/src/main.rs

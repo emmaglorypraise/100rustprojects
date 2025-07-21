@@ -13,7 +13,7 @@
 - `Panicking`: is a term used in Rust when when a program exits with an error.
 - `Destructuring`:  is breaking a compound type into different parts, e.g, breaking a tuple(tup) into three parts(x, y, z).
 
-## Rust commands
+## Rust Commands
 
 - `clear`: to clear terminal
 - `pwd`: check folder directory
@@ -32,12 +32,16 @@
 - `cargo build --release`: builds a release version of project, optimized for performance(production release)
 
 
+## String Methods
+
+## IO Methods
+
+
 ## VS Code Extensions
 
 - [Rust Syntax](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax) by Dusty Pomerleau
 - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) by rust-lang.org
 - [Rust Flash Snippets](https://marketplace.visualstudio.com/items?itemName=lorenzopirro.rust-flash-snippets) by lorenzo pirro
-
 
 
 ## 🔗 Resources

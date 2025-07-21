@@ -30,9 +30,11 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 010 | 05/06/2025 | To-Do List App  | 🧮 CLI & 📁 File Handling | ✅ Done  | [View](/projects/todo_list/)  | [Read](/notes/todo_list.md)   | 
 | 011 | 06/06/2025 | Basic Timer Tool  | 🧮 CLI  | ✅ Done  | [View](/projects/timer_tool/)  | [Read](/notes/timer_tool.md)   | 
 | 012 | 06/06/2025 | Rock-Paper-Scissors Game  | 🧮 CLI  | ✅ Done  | [View](/projects/rock_paper_scissors/)  | [Read](/notes/rock-paper-scissors.md) | 
-| 013 | 15/07/2025 | JSON Parser  | 🧮 CLI  | ✅ Done  | [View](/projects/json_parser/)  | [Read](/notes/json_parser.md)   | 
-| 014 | 15/07/2025 | File Reader CLI  | 🧮 CLI  | ✅ Done  | [View](/projects/file_reader_cli/)  | [Read](/notes/file_reader_cli.md)   | 
+| 013 | 15/07/2025 | JSON Parser  | 🧮 CLI & 📁 File Handling | ✅ Done  | [View](/projects/json_parser/)  | [Read](/notes/json_parser.md)   | 
+| 014 | 15/07/2025 | File Reader CLI  | 🧮 CLI & 📁 File Handling | ✅ Done  | [View](/projects/file_reader_cli/)  | [Read](/notes/file_reader_cli.md)   | 
 | 015 | 15/07/2025 | Memory Management Demo | 🧮 CLI  | ✅ Done  | [View](/projects/memory_mgt_demo/)  | [Read](/notes/memory_mgt_demo.md)   | 
+| 016 | 21/07/2025 | Asset Management  | 🧮 CLI  | ✅ Done  | [View](/projects/asset-tracker/)  | [Read](/notes/memory_mgt_demo.md)   | 
+| 017 | 21/07/2025 | Memory Management Demo | 🧮 CLI  | ✅ Done  | [View](/projects/memory_mgt_demo/)  | [Read](/notes/memory_mgt_demo.md)   | 
 | ... | ... | ...  | ...  | ⏳ Pending - 🔄 WIP  | ...  | ...     | 
 > 100 projects coming soon. Watch this repo to follow my progress!
 
