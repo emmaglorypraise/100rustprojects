@@ -10,7 +10,6 @@ This repository contains **100 small-to-medium Rust projects**. Each project liv
 
 - Learn core Rust concepts by building
 - Create a strong portfolio of practical projects
-- Stay consistent for 100 days
 - Build in public and connect with the Rust community
 
 ---

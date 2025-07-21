@@ -10,7 +10,7 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 - **Target end date:** 28/08/2025
 - **Current streak:** 2 days 
 - **Longest streak:** 4 days 
-- **Projects completed:** 09/100 
+- **Projects completed:** 19/100 
 
 ---
 
@@ -19,8 +19,8 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | Day | Date       | Project Name           | Type         | Status  | Project Link                               | Notes                               |
 |-----|------------|------------------------|--------------|---------|--------------------------------------------|-------------------------------------|
 | 001 | 28/05/2025 | Hello Rust CLI        | 🧮 CLI        | ✅ Done | [View](./projects/hello_rust/)     | [Read](./notes/day_001_hello_rust.md)         |
-| 002 | 29/05/2025 | Temperature Converter   | 🧮 CLI   | ✅ Done  | [View](./projects/temperature_converter/)     | [Read](./notes/temperature_converter.md)
-| 003 | 30/05/2025 | Simple Calculator  | 🧮 CLI  | ✅ Done | [View](./projects/simple_calculator/)   | [Read](./notes/simple_calculator.md)
+| 002 | 29/05/2025 | Temperature Converter   | 🧮 CLI   | ✅ Done  | [View](./projects/temperature_converter/)     | [Read](./notes/temperature_converter.md) |
+| 003 | 30/05/2025 | Simple Calculator  | 🧮 CLI  | ✅ Done | [View](./projects/simple_calculator/)   | [Read](./notes/simple_calculator.md)|
 | 004 | 31/05/2025 | Guessing Game  | 🧮 CLI   | ✅ Done  | [View](./projects/guessing_game/)  | [Read](./notes/guessing_game.md)  | 
 | 005 | 03/06/2025 | Word Counter  | 🧮 CLI & 📁 File Handling   | ✅ Done  | [View](/projects/word_counter/)  | [Read](/notes/word_counter.md)    | 
 | 006 | 03/06/2025 | BMI Calculator  | 🧮 CLI  | ✅ Done  | [View](/projects/bmi_calculator/)  | [Read](/notes/bmi_calculator.md)    | 
