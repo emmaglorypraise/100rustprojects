@@ -34,7 +34,11 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 014 | 15/07/2025 | File Reader CLI  | 🧮 CLI & 📁 File Handling | ✅ Done  | [View](/projects/file_reader_cli/)  | [Read](/notes/file_reader_cli.md)   | 
 | 015 | 15/07/2025 | Memory Management Demo | 🧮 CLI  | ✅ Done  | [View](/projects/memory_mgt_demo/)  | [Read](/notes/memory_mgt_demo.md)   | 
 | 016 | 21/07/2025 | Asset Management  | 🧮 CLI  | ✅ Done  | [View](/projects/asset-tracker/)  | [Read](/notes/memory_mgt_demo.md)   | 
-| 017 | 21/07/2025 | Memory Management Demo | 🧮 CLI  | ✅ Done  | [View](/projects/memory_mgt_demo/)  | [Read](/notes/memory_mgt_demo.md)   | 
+| 017 | 21/07/2025 | String Manipulation Tool | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
+
+| 018 | 21/07/2025 | Struct-Based Contact Manager | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
+
+| 019 | 21/07/2025 | String Manipulation Tool | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
 | ... | ... | ...  | ...  | ⏳ Pending - 🔄 WIP  | ...  | ...     | 
 > 100 projects coming soon. Watch this repo to follow my progress!
 
