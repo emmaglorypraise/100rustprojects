@@ -1,1 +1,0 @@
-/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/linked_list/target/debug/linked_list: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/linked_list/src/main.rs
