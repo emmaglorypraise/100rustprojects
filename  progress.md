@@ -37,6 +37,7 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 017 | 21/07/2025 | String Manipulation Tool | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
 | 018 | 21/07/2025 | Contact Manager | 🧮 CLI  | ✅ Done  | [View](/projects/contact_manager/)  | [Read](/notes/contact_manager.md)   | 
 | 019 | 21/07/2025 | Simple Banking System | 🧮 CLI  | ✅ Done  | [View](/projects/string_manipulator/)  | [Read](/notes/string_manipulator.md)   | 
+| 020 | 22/07/2025 | Simple Banking System | 🧮 CLI  | ✅ Done  | [View](/projects/linked_list/)  | [Read](/notes/linked_list.md)   | 
 | ... | ... | ...  | ...  | ⏳ Pending - 🔄 WIP  | ...  | ...     | 
 > 100 projects coming soon. Watch this repo to follow my progress!
 
