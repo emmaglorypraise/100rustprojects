@@ -1,0 +1,10 @@
+username = alice
+timeout = 30
+debug = true
+
+# Server Configuration
+host = 127.0.0.1
+port = 8080
+timeout = 30
+; Debug settings
+debug_mode = true

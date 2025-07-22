@@ -1,0 +1,494 @@
+{
+  "entries": [
+    {
+      "timestamp": "2025-07-22 19:25:42",
+      "user": "You",
+      "message": "Hello"
+    },
+    {
+      "timestamp": "2025-07-22 19:25:42",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:25:51",
+      "user": "You",
+      "message": "inspire me"
+    },
+    {
+      "timestamp": "2025-07-22 19:25:51",
+      "user": "Bot",
+      "message": "The only way to do great work is to love what you do. - Steve Jobs ✨"
+    },
+    {
+      "timestamp": "2025-07-22 19:26:28",
+      "user": "You",
+      "message": "Hi"
+    },
+    {
+      "timestamp": "2025-07-22 19:26:28",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:30:04",
+      "user": "You",
+      "message": "hello"
+    },
+    {
+      "timestamp": "2025-07-22 19:30:04",
+      "user": "Bot",
+      "message": "Hello there 🤖"
+    },
+    {
+      "timestamp": "2025-07-22 19:30:06",
+      "user": "You",
+      "message": "Hi"
+    },
+    {
+      "timestamp": "2025-07-22 19:30:06",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:30:09",
+      "user": "You",
+      "message": "hi"
+    },
+    {
+      "timestamp": "2025-07-22 19:30:09",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:30:17",
+      "user": "You",
+      "message": "hey"
+    },
+    {
+      "timestamp": "2025-07-22 19:30:17",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:30:22",
+      "user": "You",
+      "message": "Hello"
+    },
+    {
+      "timestamp": "2025-07-22 19:30:22",
+      "user": "Bot",
+      "message": "Hello there 🤖"
+    },
+    {
+      "timestamp": "2025-07-22 19:30:25",
+      "user": "You",
+      "message": "Hi"
+    },
+    {
+      "timestamp": "2025-07-22 19:30:25",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:31:00",
+      "user": "You",
+      "message": "rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:00",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:31:09",
+      "user": "You",
+      "message": "rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:09",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:31:11",
+      "user": "You",
+      "message": "hi"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:11",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:31:14",
+      "user": "You",
+      "message": "Hello"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:14",
+      "user": "Bot",
+      "message": "Hello there 🤖"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:19",
+      "user": "You",
+      "message": "Motivation"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:19",
+      "user": "Bot",
+      "message": "Remember: Every expert was once a beginner. Keep coding and you'll get there! 💪"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:22",
+      "user": "You",
+      "message": "inspire"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:22",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:31:26",
+      "user": "You",
+      "message": "Hey"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:26",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:31:31",
+      "user": "You",
+      "message": "Inspire me"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:31",
+      "user": "Bot",
+      "message": "The only way to do great work is to love what you do. - Steve Jobs ✨"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:35",
+      "user": "You",
+      "message": "inspire"
+    },
+    {
+      "timestamp": "2025-07-22 19:31:35",
+      "user": "Bot",
+      "message": "I don't understand that yet. Type 'help' for commands."
+    },
+    {
+      "timestamp": "2025-07-22 19:34:25",
+      "user": "You",
+      "message": "hey"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:25",
+      "user": "Bot",
+      "message": "What's happening?"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:27",
+      "user": "You",
+      "message": "Hi"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:27",
+      "user": "Bot",
+      "message": "What's happening?"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:30",
+      "user": "You",
+      "message": "Hello"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:30",
+      "user": "Bot",
+      "message": "Hello there 🤖"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:42",
+      "user": "You",
+      "message": "inspire"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:42",
+      "user": "Bot",
+      "message": "I'm not sure how to respond to that."
+    },
+    {
+      "timestamp": "2025-07-22 19:34:47",
+      "user": "You",
+      "message": "inspire me"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:47",
+      "user": "Bot",
+      "message": "The only way to do great work is to love what you do. - Steve Jobs ✨"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:51",
+      "user": "You",
+      "message": "motivation"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:51",
+      "user": "Bot",
+      "message": "Remember: Every expert was once a beginner. Keep coding and you'll get there! 💪"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:53",
+      "user": "You",
+      "message": "tip"
+    },
+    {
+      "timestamp": "2025-07-22 19:34:53",
+      "user": "Bot",
+      "message": "Pro tip: Always run `cargo clippy` - it's like having a senior Rust developer looking over your shoulder!"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:03",
+      "user": "You",
+      "message": "rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:03",
+      "user": "Bot",
+      "message": "Rust is a systems programming language..."
+    },
+    {
+      "timestamp": "2025-07-22 19:35:12",
+      "user": "You",
+      "message": "rust vs python"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:12",
+      "user": "Bot",
+      "message": "Rust is a systems programming language..."
+    },
+    {
+      "timestamp": "2025-07-22 19:35:33",
+      "user": "You",
+      "message": "who created you"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:33",
+      "user": "Bot",
+      "message": "I was created by a Rust enthusiast to demonstrate Rust's capabilities for building CLI applications!"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:35",
+      "user": "You",
+      "message": "date"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:35",
+      "user": "Bot",
+      "message": "Today is 2025-07-22"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:37",
+      "user": "You",
+      "message": "rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:37",
+      "user": "Bot",
+      "message": "Rust is a systems programming language..."
+    },
+    {
+      "timestamp": "2025-07-22 19:35:39",
+      "user": "You",
+      "message": "rust vs python"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:39",
+      "user": "Bot",
+      "message": "Rust is a systems programming language..."
+    },
+    {
+      "timestamp": "2025-07-22 19:35:44",
+      "user": "You",
+      "message": "Rust vs"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:44",
+      "user": "Bot",
+      "message": "Rust is a systems programming language..."
+    },
+    {
+      "timestamp": "2025-07-22 19:35:48",
+      "user": "You",
+      "message": "python"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:48",
+      "user": "Bot",
+      "message": "I'm not sure how to respond to that."
+    },
+    {
+      "timestamp": "2025-07-22 19:35:57",
+      "user": "You",
+      "message": "joke"
+    },
+    {
+      "timestamp": "2025-07-22 19:35:57",
+      "user": "Bot",
+      "message": "Why did the Rustacean break up with Python?\nBecause it wanted to borrow, not reference! 😄"
+    },
+    {
+      "timestamp": "2025-07-22 19:36:59",
+      "user": "You",
+      "message": "how to learn rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:36:59",
+      "user": "Bot",
+      "message": "Here's the best path:\n1. Read 'The Book' (official Rust documentation)\n2. Do Rustlings exercises\n3. Build small projects\n4. Contribute to open-source\n5. Never stop learning! 📚"
+    },
+    {
+      "timestamp": "2025-07-22 19:37:10",
+      "user": "You",
+      "message": "rust vs python"
+    },
+    {
+      "timestamp": "2025-07-22 19:37:10",
+      "user": "Bot",
+      "message": "Rust is a systems programming language..."
+    },
+    {
+      "timestamp": "2025-07-22 19:48:06",
+      "user": "You",
+      "message": "Hello"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:06",
+      "user": "Bot",
+      "message": "Hello there 🤖"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:09",
+      "user": "You",
+      "message": "rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:09",
+      "user": "Bot",
+      "message": "I'm not sure how to respond to that."
+    },
+    {
+      "timestamp": "2025-07-22 19:48:16",
+      "user": "You",
+      "message": "What is rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:16",
+      "user": "Bot",
+      "message": "I'm not sure how to respond to that."
+    },
+    {
+      "timestamp": "2025-07-22 19:48:29",
+      "user": "You",
+      "message": "about rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:29",
+      "user": "Bot",
+      "message": "Rust is a systems programming language..."
+    },
+    {
+      "timestamp": "2025-07-22 19:48:36",
+      "user": "You",
+      "message": "hey"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:36",
+      "user": "Bot",
+      "message": "What's happening?"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:38",
+      "user": "You",
+      "message": "hi"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:38",
+      "user": "Bot",
+      "message": "What's happening?"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:56",
+      "user": "You",
+      "message": "rust vs python"
+    },
+    {
+      "timestamp": "2025-07-22 19:48:56",
+      "user": "Bot",
+      "message": "Both are great! Rust gives you performance and safety, while Python offers simplicity. Use Rust for:\n- System programming\n- Performance-critical code\n- Concurrency\nUse Python for:\n- Rapid prototyping\n- Data science\n- Scripting"
+    },
+    {
+      "timestamp": "2025-07-22 19:49:12",
+      "user": "You",
+      "message": "how to learn rust"
+    },
+    {
+      "timestamp": "2025-07-22 19:49:12",
+      "user": "Bot",
+      "message": "Here's the best path:\n1. Read 'The Book' (official Rust documentation)\n2. Do Rustlings exercises\n3. Build small projects\n4. Contribute to open-source\n5. Never stop learning! 📚"
+    },
+    {
+      "timestamp": "2025-07-22 19:49:16",
+      "user": "You",
+      "message": "joke"
+    },
+    {
+      "timestamp": "2025-07-22 19:49:16",
+      "user": "Bot",
+      "message": "Why did the Rustacean break up with Python?\nBecause it wanted to borrow, not reference! 😄"
+    },
+    {
+      "timestamp": "2025-07-22 19:49:21",
+      "user": "You",
+      "message": "inspire me"
+    },
+    {
+      "timestamp": "2025-07-22 19:49:21",
+      "user": "Bot",
+      "message": "The only way to do great work is to love what you do. - Steve Jobs ✨"
+    },
+    {
+      "timestamp": "2025-07-22 19:50:11",
+      "user": "You",
+      "message": "helloo"
+    },
+    {
+      "timestamp": "2025-07-22 19:50:11",
+      "user": "Bot",
+      "message": "Hello there 🤖"
+    },
+    {
+      "timestamp": "2025-07-22 19:50:15",
+      "user": "You",
+      "message": "whats up"
+    },
+    {
+      "timestamp": "2025-07-22 19:50:15",
+      "user": "Bot",
+      "message": "I'm not sure how to respond to that."
+    },
+    {
+      "timestamp": "2025-07-22 19:50:26",
+      "user": "You",
+      "message": "what's up"
+    },
+    {
+      "timestamp": "2025-07-22 19:50:26",
+      "user": "Bot",
+      "message": "What's happening?"
+    }
+  ]
+}
