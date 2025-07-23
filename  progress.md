@@ -46,7 +46,7 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 026 | 23/07/2025 | Minigrep               | 🧮 CLI                    | ✅ Done             | [View](/projects/minigrep/)               | [Read](/notes/mingrep.md)               |
 | 027 | 23/07/2025 | Logger Utility               | 🧮 CLI & 📁 File Handling                  | ✅ Done             | [View](/projects/logger_utility/)               | [Read](/notes/logger_utility.md)               |
 | 028 | 23/07/2025 | Data Validation Tool               | 🧮 CLI           | ✅ Done             | [View](/projects/data_validation/)               | [Read](/notes/data_validation.md)               |
-| 029 | 23/07/2025 | Generic Stack Implementation             | 🧮 CLI                | ✅ Done             | [View](/projects/data_validation/)               | [Read](/notes/data_validation.md)               |
+| 029 | 23/07/2025 | Generic Stack Implementation             | 🧮 CLI                | ✅ Done             | [View](/projects/generic_stack/)               | [Read](/notes/generic_stack.md)               |
 | ... | ...        | ...                             | ...                       | ⏳ Pending - 🔄 WIP | ...                                       | ...                                      |
 
 > 100 projects coming soon. Watch this repo to follow my progress!

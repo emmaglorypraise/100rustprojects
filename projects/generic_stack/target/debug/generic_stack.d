@@ -1,1 +1,0 @@
-/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/generic_stack/target/debug/generic_stack: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/generic_stack/src/main.rs
