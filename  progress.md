@@ -8,9 +8,9 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 
 - **Started on:** 28/05/2025
 - **Target end date:** 28/08/2025
-- **Current streak:** 3 days
+- **Current streak:** 1 days
 - **Longest streak:** 4 days
-- **Projects completed:** 19/100
+- **Projects completed:** 31/100
 
 ---
 
@@ -47,6 +47,8 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 027 | 23/07/2025 | Logger Utility               | 🧮 CLI & 📁 File Handling                  | ✅ Done             | [View](/projects/logger_utility/)               | [Read](/notes/logger_utility.md)               |
 | 028 | 23/07/2025 | Data Validation Tool               | 🧮 CLI           | ✅ Done             | [View](/projects/data_validation/)               | [Read](/notes/data_validation.md)               |
 | 029 | 23/07/2025 | Generic Stack Implementation             | 🧮 CLI                | ✅ Done             | [View](/projects/generic_stack/)               | [Read](/notes/generic_stack.md)               |
+| 030 | 24/07/2025 | Generic Binary Search CLI           | 🧮 CLI               | ✅ Done             | [View](/projects/generic_binary_stack/)               | [Read](/notes/generic_binary_search.md)               |
+| 031 | 25/07/2025 | Generic Binary Search CLI           | 🧮 CLI               | ✅ Done             | [View](/projects/plugin_system/)               | [Read](/notes/plugin.md)               |
 | ... | ...        | ...                             | ...                       | ⏳ Pending - 🔄 WIP | ...                                       | ...                                      |
 
 > 100 projects coming soon. Watch this repo to follow my progress!
