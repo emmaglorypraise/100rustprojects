@@ -1,1 +1,0 @@
-/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/minigrep/target/debug/minigrep: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/minigrep/src/lib.rs /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/minigrep/src/main.rs
