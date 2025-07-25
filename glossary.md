@@ -48,5 +48,7 @@
 - [Rust Book](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
 - [Rust playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2024)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/meta/playground.html)
-- https://quickref.me/rust.html
-- https://cheats.rs/
+- Rust [Cheet Sheet](https://quickref.me/rust.html)
+- Rust Language [Cheat Sheet](https://cheats.rs/)
+- [Practice Rust With Exercism](https://exercism.org/tracks/rust)
+- Practice with [Rustlings](https://rustlings.rust-lang.org/)

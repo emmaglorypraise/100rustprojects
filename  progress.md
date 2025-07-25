@@ -37,18 +37,19 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 017 | 21/07/2025 | String Manipulation Tool        | 🧮 CLI                    | ✅ Done             | [View](/projects/string_manipulator/)     | [Read](/notes/string_manipulator.md)     |
 | 018 | 21/07/2025 | Contact Manager                 | 🧮 CLI                    | ✅ Done             | [View](/projects/contact_manager/)        | [Read](/notes/contact_manager.md)        |
 | 019 | 21/07/2025 | Simple Banking System           | 🧮 CLI                    | ✅ Done             | [View](/projects/string_manipulator/)     | [Read](/notes/string_manipulator.md)     |
-| 020 | 22/07/2025 | Linked List Implementation      | 🧮 CLI  & 🧠 Algorithm/Logic                 | ✅ Done             | [View](/projects/linked_list/)            | [Read](/notes/linked_list.md)            |
+| 020 | 22/07/2025 | Linked List Implementation      | 🧠 Data Structure/Algorithm                | ✅ Done             | [View](/projects/linked_list/)            | [Read](/notes/linked_list.md)            |
 | 021 | 22/07/2025 | CRUD Operations on a Text File  | 🧮 CLI & 📁 File Handling | ✅ Done             | [View](/projects/crud_in_file/)           | [Read](/notes/crud_in_file.md)           |
 | 022 | 22/07/2025 | Error Handling Demo             | 🧮 CLI                    | ✅ Done             | [View](/projects/crud_in_file/)           | [Read](/notes/crud_in_file.md)           |
 | 023 | 22/07/2025 | Custom Error Types in CLI Tools | 🧮 CLI                    | ✅ Done             | [View](/projects/custom_error_types/)     | [Read](/notes/crud_in_file.md)           |
-| 024 | 22/07/2025 | Chat Application                | 🧮 CLI & 🧠 Algorithm/Logic                  | ✅ Done             | [View](/projects/chat_app/)               | [Read](/notes/chat_app.md)               |
+| 024 | 22/07/2025 | Chat Application                | 🧮 CLI                 | ✅ Done             | [View](/projects/chat_app/)               | [Read](/notes/chat_app.md)               |
 | 025 | 22/07/2025 | Config File Parser               | 🧮 CLI                    | ✅ Done             | [View](/projects/config_file_parser/)               | [Read](/notes/config_file_parser.md)               |
 | 026 | 23/07/2025 | Minigrep               | 🧮 CLI                    | ✅ Done             | [View](/projects/minigrep/)               | [Read](/notes/mingrep.md)               |
 | 027 | 23/07/2025 | Logger Utility               | 🧮 CLI & 📁 File Handling                  | ✅ Done             | [View](/projects/logger_utility/)               | [Read](/notes/logger_utility.md)               |
 | 028 | 23/07/2025 | Data Validation Tool               | 🧮 CLI           | ✅ Done             | [View](/projects/data_validation/)               | [Read](/notes/data_validation.md)               |
-| 029 | 23/07/2025 | Generic Stack Implementation             | 🧮 CLI                | ✅ Done             | [View](/projects/generic_stack/)               | [Read](/notes/generic_stack.md)               |
+| 029 | 23/07/2025 | Generic Stack Implementation             | 🧠 Data Structure/Algorithm                | ✅ Done             | [View](/projects/generic_stack/)               | [Read](/notes/generic_stack.md)               |
 | 030 | 24/07/2025 | Generic Binary Search CLI           | 🧮 CLI               | ✅ Done             | [View](/projects/generic_binary_stack/)               | [Read](/notes/generic_binary_search.md)               |
-| 031 | 25/07/2025 | Generic Binary Search CLI           | 🧮 CLI               | ✅ Done             | [View](/projects/plugin_system/)               | [Read](/notes/plugin.md)               |
+| 031 | 25/07/2025 | Plugin System with Traits          | 🧮 CLI               | ✅ Done             | [View](/projects/plugin_system/)               | [Read](/notes/plugin.md)               |
+| 032 | 25/07/2025 | Multi-Client Chat Server         | 🧮 CLI               | ✅ Done             | [View](/projects/multiclient_chat_server/)               | [Read](/notes/multiclient_chat_server.md)               |
 | ... | ...        | ...                             | ...                       | ⏳ Pending - 🔄 WIP | ...                                       | ...                                      |
 
 > 100 projects coming soon. Watch this repo to follow my progress!
@@ -58,7 +59,7 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 > - 🧮 CLI
 > - 📁 File Handling
 > - 🌐 Web/HTTP
-> - 🧠 Algorithm/Logic
+> - 🧠 Data Structure/Algorithm
 > - 🕸️ WebAssembly
 > - ⚙️ Systems
 > - 🧪 Testing

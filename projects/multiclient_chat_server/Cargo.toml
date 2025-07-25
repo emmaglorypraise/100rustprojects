@@ -1,0 +1,10 @@
+[package]
+name = "multiclient_chat_server"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+log = "0.4"
+env_logger = "0.10"
+chrono = "0.4"
+ctrlc = "3.4"
