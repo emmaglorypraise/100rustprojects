@@ -47,11 +47,12 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 027 | 23/07/2025 | Logger Utility               | 🧮 CLI & 📁 File Handling                  | ✅ Done             | [View](/projects/logger_utility/)               | [Read](/notes/logger_utility.md)               |
 | 028 | 23/07/2025 | Data Validation Tool               | 🧮 CLI           | ✅ Done             | [View](/projects/data_validation/)               | [Read](/notes/data_validation.md)               |
 | 029 | 23/07/2025 | Generic Stack Implementation             | 🧠 Data Structure/Algorithm                | ✅ Done             | [View](/projects/generic_stack/)               | [Read](/notes/generic_stack.md)               |
-| 030 | 24/07/2025 | Generic Binary Search CLI           | 🧮 CLI               | ✅ Done             | [View](/projects/generic_binary_stack/)               | [Read](/notes/generic_binary_search.md)               |
+| 030 | 24/07/2025 | Generic Binary Search CLI           | 🧠 Data Structure/Algorithm             | ✅ Done             | [View](/projects/generic_binary_stack/)               | [Read](/notes/generic_binary_search.md)               |
 | 031 | 25/07/2025 | Plugin System with Traits          | 🧮 CLI               | ✅ Done             | [View](/projects/plugin_system/)               | [Read](/notes/plugin.md)               |
-| 032 | 25/07/2025 | Multi-Client Chat Server         | 🧮 CLI               | ✅ Done             | [View](/projects/multiclient_chat_server/)               | [Read](/notes/multiclient_chat_server.md)               |
+| 032 | 25/07/2025 | Generic Bubble & Insertion  Sorting Algorithms      | 🧠 Data Structure/Algorithm                | ✅ Done             | [View](/projects/sorting_algorithm/)               | [Read](/notes/sorting_algorithms.md)               |
+| 033 | 25/07/2025 | Polymorphic Shape Renderer      | 🧮 CLI                | ✅ Done             | [View](/projects/polymorphic_shape_renderer/)               | [Read](/notes/polymorphic_shape_renderer.md)               |
+| 034 | 25/07/2025 | Multi-Client Chat Server         | 🧮 CLI               | ✅ Done             | [View](/projects/multiclient_chat_server/)               | [Read](/notes/multiclient_chat_server.md)               |
 | ... | ...        | ...                             | ...                       | ⏳ Pending - 🔄 WIP | ...                                       | ...                                      |
-
 > 100 projects coming soon. Watch this repo to follow my progress!
 
 > Emoji Types:

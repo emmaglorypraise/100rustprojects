@@ -9,12 +9,7 @@ A Rust contact Manager CLI using a Rust struct to store and manage contacts. Imp
 ## Notes
 
 
-    
-
-
-
-
-
+ 
 
 
 
