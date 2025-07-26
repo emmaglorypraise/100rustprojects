@@ -51,8 +51,15 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 031 | 25/07/2025 | Plugin System with Traits          | 🧮 CLI               | ✅ Done             | [View](/projects/plugin_system/)               | [Read](/notes/plugin.md)               |
 | 032 | 25/07/2025 | Generic Bubble & Insertion  Sorting Algorithms      | 🧠 Data Structure/Algorithm                | ✅ Done             | [View](/projects/sorting_algorithm/)               | [Read](/notes/sorting_algorithms.md)               |
 | 033 | 25/07/2025 | Polymorphic Shape Renderer      | 🧮 CLI                | ✅ Done             | [View](/projects/polymorphic_shape_renderer/)               | [Read](/notes/polymorphic_shape_renderer.md)               |
-| 034 | 25/07/2025 | Multi-Client Chat Server         | 🧮 CLI               | ✅ Done             | [View](/projects/multiclient_chat_server/)               | [Read](/notes/multiclient_chat_server.md)               |
-| ... | ...        | ...                             | ...                       | ⏳ Pending - 🔄 WIP | ...                                       | ...                                      |
+| 034 | 26/07/2025 | Trait Object Demo (Dynamic Behavior Switching)     | 🧮 CLI                | ✅ Done             | [View](/projects/trait_object_demo/)               | [Read](/notes/trait_object_demo.md)               |
+| 035 | 26/07/2025 | Remote Control - Command Pattern with Traits    | 🧮 CLI                | ✅ Done             | [View](/projects/command_pattern/)               | [Read](/notes/command_patterns.md)               |
+| 036 | 26/07/2025 | Multi-threaded Counter    | 🧮 CLI                | ✅ Done             | [View](/projects/t)               | [Read](/notes/multi_threaded_counter.md)               |
+| 037 | 26/07/2025 | Thread Pool    | 🧮 CLI                | ✅ Done             | [View](/projects/thread_pool/)               | [Read](/notes/thread_pool.md)               |
+| 038 | 26/07/2025 | Simple Parallel Web Crawler   | 🧮 CLI      | ✅ Done    | [View](/projects/simple_web_crawler/)       | [Read](/notes/simple_web_crawler.md)               |
+| 039 | 26/07/2025 | Producer-Consumer Model  | 🧮 CLI      | ✅ Done    | [View](/projects/producer_consumer_model/)       | [Read](/notes/producer_consumer_model.md)               |
+| 040 | 26/07/2025 | Mutex and Arc Demo | 🧮 CLI      | ✅ Done    | [View](/projects//mutex_arc_demo/)       | [Read](/notes/mutex_and_arc_demo.md)               |
+| 041 | 25/07/2025 | Multi-Client Chat Server         | 🧮 CLI               | ✅ Done             | [View](/projects/multiclient_chat_server/)               | [Read](/notes/multiclient_chat_server.md)               |
+| ... | ...        | ...            | ...                   | ⏳ Pending - 🔄 WIP | ...                                       | ...                                      |
 > 100 projects coming soon. Watch this repo to follow my progress!
 
 > Emoji Types:
