@@ -33,15 +33,15 @@
 - `cargo clippy`: shows you warnings about things that you are doing the "wrong" way and tells you how you can write better rus
 - `cargo clippy -- -W clippy::pedantic`: this clippy group contains really opinionated lints that nitpicks about even more possible errors and just gives warnings
 
-## String Methods
-
-## IO Methods
-
 ## VS Code Extensions
 
 - [Rust Syntax](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax) by Dusty Pomerleau
 - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) by rust-lang.org
 - [Rust Flash Snippets](https://marketplace.visualstudio.com/items?itemName=lorenzopirro.rust-flash-snippets) by lorenzo pirro
+
+## Useful Rust Crates Used
+- Coming soon
+
 
 ## 🔗 Resources
 

@@ -1,4 +1,4 @@
-# Project 032 – Multi-Client Chat Server
+# Project 051 – Multi-Client Chat Server
 
 ## What I Built
 A lightweight Rust CLI tool that extends the TCP server to support multiple clients chatting together. This project introduces shared state across threads, broadcasting messages, and synchronizing sockets using Arc<Mutex<>>.

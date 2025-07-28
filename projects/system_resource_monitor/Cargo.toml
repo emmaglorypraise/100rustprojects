@@ -1,0 +1,7 @@
+[package]
+name = "system_resource_monitor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sysinfo = "0.30"

@@ -1,0 +1,10 @@
+[package]
+name = "file_encryption_tool"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aes = "0.8"
+cipher = "0.4"
+hex = "0.4"
+ctr = "0.9"
