@@ -8,9 +8,9 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 
 - **Started on:** 28/05/2025
 - **Target end date:** 28/08/2025
-- **Current streak:** 7 days
+- **Current streak:** 8 days
 - **Longest streak:** 4 days
-- **Projects completed:** 51/100
+- **Projects completed:** 52/100
 
 ---
 
@@ -63,12 +63,13 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 043 | 27/07/2025 | File Compression Tool                          | 🧮 CLI                      | ✅ Done | [View](/projects/file_compression_tool/)             | [Read](/notes/file_compression_tool.md)      |
 | 044 | 28/07/2025 | System Resource Monitor                        | 🧮 CLI                      | ✅ Done | [View](/projects/system_resource_monitor/)           | [Read](/notes/system_resource_monitor.md)    |
 | 045 | 28/07/2025 | Multi-threaded File Copier                     | 🧮 CLI                      | ✅ Done | [View](/projects/multi-_threaded_file_copier/)       | [Read](/notes/multi_threaded_file_copier.md) |
-| 046 | 28/07/2025 | CSV File Processor                    | 🧮 CLI                      | ✅ Done | [View](/projects/csv_file_processor/)       | [Read](/notes/csv_file_processor.md) |
-| 047 | 28/07/2025 | File Encryption Tool                    | 🧮 CLI                      | ✅ Done | [View](/projects/file_encryption_tool/)       | [Read](/notes/file_encryption_tool.md) |
-| 048 | 28/07/2025 | Process Manager          | 🧮 CLI                      | ✅ Done | [View](/projects/process_manager/)       | [Read](/notes/process_manager.md) |
-| 049 | 28/07/2025 |  TCP Server         | 🧮 CLI                      | ✅ Done | [View](/projects/tcp_server/)       | [Read](/notes/simple_tcp_server.md) |
-| 050 | 28/07/2025 |  TCP Client         | 🧮 CLI                      | ✅ Done | [View](/projects/tcp_client/)       | [Read](/notes/tcp_client.md) |
-| 051 | 25/07/2025 | Multi-Client Chat Server | 🧮 CLI | ✅ Done | [View](/projects/multiclient_chat_server/) | [Read](/notes/multiclient_chat_server.md) |
+| 046 | 28/07/2025 | CSV File Processor                             | 🧮 CLI                      | ✅ Done | [View](/projects/csv_file_processor/)                | [Read](/notes/csv_file_processor.md)         |
+| 047 | 28/07/2025 | File Encryption Tool                           | 🧮 CLI                      | ✅ Done | [View](/projects/file_encryption_tool/)              | [Read](/notes/file_encryption_tool.md)       |
+| 048 | 28/07/2025 | Process Manager                                | 🧮 CLI                      | ✅ Done | [View](/projects/process_manager/)                   | [Read](/notes/process_manager.md)            |
+| 049 | 28/07/2025 | TCP Server                                     | 🧮 CLI                      | ✅ Done | [View](/projects/tcp_server/)                        | [Read](/notes/simple_tcp_server.md)          |
+| 050 | 28/07/2025 | TCP Client                                     | 🧮 CLI                      | ✅ Done | [View](/projects/tcp_client/)                        | [Read](/notes/tcp_client.md)                 |
+| 051 | 25/07/2025 | Multi-Client Chat Server                       | 🧮 CLI                      | ✅ Done | [View](/projects/multiclient_chat_server/)           | [Read](/notes/multiclient_chat_server.md)    |
+| 052 | 29/07/2025 | HTTP Request Parser                            | 🧮 CLI                      | ✅ Done | [View](/projects/http_request_parser/)               | [Read](/notes/http_request_parser.md)        |
 | ... | ... | ... | ... | ⏳ Pending - 🔄 WIP | ... | ... |
 
 > 100 projects coming soon. Watch this repo to follow my progress!

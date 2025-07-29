@@ -1,7 +1,6 @@
 # Glossary
 
 ## Definations
-
 - `Rust`:
 - `Cargo`:
 - `Prelude`: By default, Rust has set of items defined in the standard library that it brings into the scope of every program, e.g, the io library. If a type you want to use isn’t in the prelude, you have to bring that type into scope explicitly with a `use` statement.
