@@ -83,6 +83,7 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 063 | 07/08/2025 | User Authentication API (Actix-Web)            | 🌐 Web/HTTP                 | ✅ Done             | [View](/projects/user_uthentication_api/)            | [Read](/notes/user_uthentication_api.md)     |
 | 064 | 07/08/2025 | CRUD API with Actix-Web                        | 🌐 Web/HTTP                 | ✅ Done             | [View](/projects/crud_api/)                          | [Read](/notes/crud_api.md)                   |
 | 065 | 07/08/2025 | JWT Authentication in Actix-Web                | 🌐 Web/HTTP                 | ✅ Done             | [View](/projects/jwt_authentication/)                | [Read](/notes/jwt_authentication.md)         |
+| 066 | 08/08/2025 | SQLite Integration with Actix-Web             | 💾 Database                | ✅ Done             | [View](/projects/sqlite_integration_with_actix/)                | [Read](/notes/sqlite_integration_with_actix.md)         |
 | ... | ...        | ...                                            | ...                         | ⏳ Pending - 🔄 WIP | ...                                                  | ...                                          |
 
 > 100 projects coming soon. Watch this repo to follow my progress!
