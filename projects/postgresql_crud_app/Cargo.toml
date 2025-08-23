@@ -1,0 +1,12 @@
+[package]
+name = "postgresql_crud_app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-web = "4"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+sqlx = { version = "0.7", features = ["runtime-tokio-native-tls", "postgres", "macros"] }
+tokio = { version = "1", features = ["full"] }
+dotenvy = "0.15"

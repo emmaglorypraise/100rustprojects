@@ -1,0 +1,1 @@
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/websocket_echo_server/target/debug/websocket_echo_server: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/websocket_echo_server/src/main.rs

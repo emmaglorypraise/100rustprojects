@@ -1,7 +1,7 @@
 # Project 066 – SQLite Integration with Actix-Web
 
 ## What I Built
-An SQLite database into your Actix-Web server using SQLx, enabling persistent storage for your app
+An SQLite database into a Actix-Web server using SQLx, enabling persistent storage for the app
 
 ## What I Learned
 

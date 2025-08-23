@@ -1,0 +1,25 @@
+[package]
+name = "yew_chat_ui"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib", "rlib"]  # Important for WASM compilation
+
+[dependencies]
+yew = { version = "0.21.0", features = ["csr"] }
+wasm-bindgen = "0.2.92"
+js-sys = "0.3.69"
+gloo-net = "0.4"
+gloo-console = "0.3"
+gloo-utils = "0.2"
+gloo-timers = "0.3"
+web-sys = { version = "0.3", features = [
+    "HtmlInputElement",
+    "EventTarget",
+    "WebSocket",
+    "MessageEvent",
+    "KeyboardEvent",
+    "MouseEvent",
+    "InputEvent"
+]}
