@@ -10,7 +10,7 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 - **Target end date:** 28/08/2025
 - **Current streak:** 1 day
 - **Longest streak:** 8 days
-- **Projects completed:** 80/100
+- **Projects completed:** 82/100
 
 ---
 
@@ -97,7 +97,9 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 077 | 23/08/2025 | Async Web Fetcher (Tokio + Reqwest)                                  | 🧮 CLI                      | ✅ Done             | [View](/projects/async_web_fetcher/)                 | [Read](/notes/async_web_fetcher.md)             |
 | 078 | 23/08/2025 | Command-Line Progress Bar (with indicatif)                           | 🧮 CLI                      | ✅ Done             | [View](/projects/progress_bar/)                      | [Read](/notes/progress_bar.md)                  |
 | 079 | 23/08/2025 | Text Adventure Game (CLI RPG)                                        | 🧮 CLI                      | ✅ Done             | [View](/projects/text_adventure_game/)               | [Read](/notes/text_adventure_game.md)           |
-| 080 | 23/08/2025 | Markdown to HTML Converter(Rust CLI Tool) markdown_to_html_converter | 🧮 CLI                      | ✅ Done             | [View](/projects/markdown_to_html_converter/)        | [Read](/notes/markdown_to_html_converter.md)    |
+| 080 | 23/08/2025 | Markdown to HTML Converter(Rust CLI Tool) | 🧮 CLI                      | ✅ Done             | [View](/projects/markdown_to_html_converter/)        | [Read](/notes/markdown_to_html_converter.md)    |
+| 081 | 01/09/2025 | Real-Time File Watcher | 🧮 CLI                      | ✅ Done             | [View](/projects/realtime_file_watcher/)        | [Read](/notes/realtime_file_watcher.md)    |
+| 082 | 01/09/2025 | Interactive Quiz Engine (CSV-Based Quiz Game) | 🧮 CLI                      | ✅ Done             | [View](/projects/quiz_engine)        | [Read](/notes/quiz_engine.md)    |
 | ... | ...        | ...                                                                  | ...                         | ⏳ Pending - 🔄 WIP | ...                                                  | ...                                             |
 
 > 100 projects coming soon. Watch this repo to follow my progress!

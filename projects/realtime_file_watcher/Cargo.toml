@@ -1,0 +1,8 @@
+[package]
+name = "realtime_file_watcher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+notify = "6.1.1"
+notify-rust = "4.10.0"
