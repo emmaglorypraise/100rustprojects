@@ -102,6 +102,8 @@ Welcome to my personal tracker for the **#100RustProjects** challenge. This docu
 | 082 | 01/09/2025 | Interactive Quiz Engine (CSV-Based Quiz Game)    | 🧮 CLI                      | ✅ Done             | [View](/projects/quiz_engine)                        | [Read](/notes/quiz_engine.md)                   |
 | 083 | 02/09/2025 | Encrypted Notes Manager (AES Secure CLI)         | 🧮 CLI                      | ✅ Done             | [View](/projects/encrypted_notes/)                   | [Read](/notes/encrypted_notes.md)               |
 | 084 | 02/09/2025 | Generative ASCII Art Tool                        | 🧮 CLI                      | ✅ Done             | [View](/projects/ascii_art)                          | [Read](/notes/ascii_art.md)                     |
+| 085 | 03/09/2025 | Git Commit Message Helper                        | 🧮 CLI                      | ✅ Done             | [View](/projects/commit_helper)                      | [Read](/notes/commit_helper.md)                 |
+| 086 | 04/09/2025 | Time Zone Converter CLI                       | 🧮 CLI                      | ✅ Done             | [View](/projects/timezone_converter)                      | [Read](/notes/timezone_converter.md)                 |
 | ... | ...        | ...                                              | ...                         | ⏳ Pending - 🔄 WIP | ...                                                  | ...                                             |
 
 > 100 projects coming soon. Watch this repo to follow my progress!
