@@ -1,0 +1,9 @@
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/resume_builder/target/debug/deps/encoding_index_simpchinese-05e24e3c5d54efc1.d: /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/resume_builder/target/debug/deps/libencoding_index_simpchinese-05e24e3c5d54efc1.rlib: /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/resume_builder/target/debug/deps/libencoding_index_simpchinese-05e24e3c5d54efc1.rmeta: /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs:
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs:
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs:

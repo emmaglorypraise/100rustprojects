@@ -25,12 +25,43 @@ Run this SQL to initialize the table:
 );
 ```
 
-### How to Run the Application:
+#### Start PostgreSQL with Docker Compose
+```
+# Start PostgreSQL
+docker-compose up -d
 
+# Check if it's running
+docker-compose ps
+
+# View logs
+docker-compose logs postgres
+```
+
+#### Test the database connection
+```
+# Connect to PostgreSQL inside the container
+docker-compose exec postgres psql -U postgres -d todo_db -c "SELECT version();"
+
+# Check if table was created
+docker-compose exec postgres psql -U postgres -d todo_db -c "\dt"
+
+# View table structure
+docker-compose exec postgres psql -U postgres -d todo_db -c "\d todos"
+```
+
+### How to Run the Application:
 ##### Run the App
 ```
- cargo run
- ```
+ # Start PostgreSQL
+docker-compose up -d
+
+# Wait for PostgreSQL to be ready
+sleep 5
+
+# Run your Rust application
+cargo run
+```
+
 ##### Sample Commands:
 ```
 # Add a todo

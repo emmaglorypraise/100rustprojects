@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🖼️ WASM Image Filter with Download</title>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f5f5f5;
+        color: #333;
+      }
+      h1 {
+        color: #2c3e50;
+        text-align: center;
+      }
+      .container {
+        background-color: white;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+      .image-container {
+        display: flex;
+        justify-content: space-around;
+        margin: 20px 0;
+        flex-wrap: wrap;
+      }
+      .image-box {
+        text-align: center;
+        margin: 10px;
+        position: relative;
+      }
+      .image-box h3 {
+        margin-bottom: 10px;
+        color: #2c3e50;
+      }
+      img {
+        max-width: 300px;
+        max-height: 300px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        background-color: #fff;
+      }
+      input[type="file"] {
+        margin: 20px 0;
+        padding: 10px;
+        border: 2px dashed #ccc;
+        border-radius: 4px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      .button-container {
+        text-align: center;
+        margin: 20px 0;
+      }
+      button {
+        background-color: #4caf50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 0 10px;
+        font-size: 16px;
+        transition: background-color 0.3s;
+      }
+      button:hover {
+        background-color: #45a049;
+      }
+      button:disabled {
+        background-color: #cccccc;
+        cursor: not-allowed;
+      }
+      .download-btn {
+        background-color: #2196f3;
+      }
+      .download-btn:hover {
+        background-color: #0b7dda;
+      }
+      .status {
+        padding: 10px;
+        margin: 10px 0;
+        border-radius: 4px;
+        text-align: center;
+      }
+      .success {
+        background-color: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+      }
+      .error {
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+      }
+      .loading {
+        display: none;
+        text-align: center;
+        margin: 20px 0;
+      }
+      .spinner {
+        border: 4px solid #f3f3f3;
+        border-top: 4px solid #3498db;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        animation: spin 1s linear infinite;
+        margin: 0 auto;
+      }
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+      .debug {
+        margin-top: 30px;
+        padding: 15px;
+        background-color: #f8f9fa;
+        border-left: 4px solid #6c757d;
+        border-radius: 4px;
+      }
+      .debug h3 {
+        margin-top: 0;
+        color: #6c757d;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🧽 Grayscale Filter (Rust + WASM)</h1>
+
+      <div id="status" class="status"></div>
+
+      <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <p>Processing image...</p>
+      </div>
+
+      <input type="file" id="upload" accept="image/*" />
+
+      <div class="button-container">
+        <button id="downloadBtn" class="download-btn" disabled>
+          Download Filtered Image
+        </button>
+      </div>
+
+      <div class="image-container">
+        <div class="image-box">
+          <h3>Original Image</h3>
+          <img
+            id="original"
+            src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkZGRkIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMThweCIgZmlsbD0iIzk5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iPlVwbG9hZCBhbiBpbWFnZTwvdGV4dD48L3N2Zz4="
+            alt="Original image preview"
+          />
+        </div>
+        <div class="image-box">
+          <h3>Filtered Output</h3>
+          <img
+            id="filtered"
+            src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkZGRkIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMThweCIgZmlsbD0iIzk5OSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iPkZpbHRlcmVkIGltYWdlPC90ZXh0Pjwvc3ZnPg=="
+            alt="Filtered image preview"
+          />
+        </div>
+      </div>
+
+      <div class="debug">
+        <h3>Debug Information</h3>
+        <p id="debugInfo">Waiting for image upload...</p>
+        <button id="clearDebug">Clear Debug</button>
+      </div>
+    </div>
+
+    <script type="module">
+      // Add debug information to the page
+      function debugLog(message, isError = false) {
+        const debugElement = document.getElementById("debugInfo");
+        const newMessage = document.createElement("div");
+        newMessage.textContent = `${new Date().toLocaleTimeString()}: ${message}`;
+        if (isError) {
+          newMessage.style.color = "#e74c3c";
+        }
+        debugElement.prepend(newMessage);
+      }
+
+      // Update status message
+      function updateStatus(message, isError = false) {
+        const statusElement = document.getElementById("status");
+        statusElement.textContent = message;
+        statusElement.className = isError ? "status error" : "status success";
+        statusElement.style.display = "block";
+      }
+
+      // Show/hide loading indicator
+      function setLoading(show) {
+        document.getElementById("loading").style.display = show
+          ? "block"
+          : "none";
+      }
+
+      // Clear debug info
+      document.getElementById("clearDebug").addEventListener("click", () => {
+        document.getElementById("debugInfo").innerHTML = "";
+      });
+
+      // Download filtered image
+      function setupDownload(blob) {
+        const downloadBtn = document.getElementById("downloadBtn");
+
+        // Enable the download button
+        downloadBtn.disabled = false;
+
+        // Set up download functionality
+        downloadBtn.addEventListener("click", () => {
+          // Create a download link
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = "grayscale-image.png";
+          document.body.appendChild(a);
+          a.click();
+
+          // Clean up
+          setTimeout(() => {
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+          }, 100);
+
+          debugLog("Download initiated for filtered image");
+          updateStatus("Download started!");
+        });
+      }
+
+      // Main application logic
+      async function run() {
+        debugLog("Initializing application...");
+
+        try {
+          // Import the WASM module
+          debugLog("Importing WASM module...");
+          const wasmModule = await import("./pkg/wasm_filter.js");
+
+          debugLog("Initializing WASM module...");
+          await wasmModule.default();
+          debugLog("WASM module initialized successfully");
+          updateStatus("WASM module loaded successfully!");
+
+          // Set up file upload handler
+          const upload = document.getElementById("upload");
+          const original = document.getElementById("original");
+          const filtered = document.getElementById("filtered");
+
+          upload.addEventListener("change", async (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            debugLog(
+              `File selected: ${file.name}, type: ${file.type}, size: ${file.size} bytes`
+            );
+
+            // Validate file type
+            if (!file.type.startsWith("image/")) {
+              const errorMsg = "Please select an image file";
+              debugLog(errorMsg, true);
+              updateStatus(errorMsg, true);
+              return;
+            }
+
+            setLoading(true);
+            updateStatus("Processing image...");
+
+            try {
+              // Read the file as ArrayBuffer
+              debugLog("Reading file data...");
+              const buffer = await file.arrayBuffer();
+
+              // Display original image
+              original.src = URL.createObjectURL(file);
+              debugLog("Original image displayed");
+
+              // Apply grayscale filter using WASM
+              debugLog("Applying grayscale filter via WASM...");
+              const output = wasmModule.apply_grayscale(new Uint8Array(buffer));
+              debugLog(`Filter applied, output size: ${output.length} bytes`);
+
+              // Create and display the filtered image
+              const blob = new Blob([output], { type: "image/png" });
+              filtered.src = URL.createObjectURL(blob);
+              debugLog("Filtered image displayed");
+
+              // Set up download functionality
+              setupDownload(blob);
+
+              updateStatus(
+                "Image processed successfully! Click Download to save."
+              );
+            } catch (err) {
+              const errorMsg = `Error processing image: ${err.message}`;
+              debugLog(errorMsg, true);
+              updateStatus(errorMsg, true);
+              console.error(err);
+            } finally {
+              setLoading(false);
+            }
+          });
+        } catch (err) {
+          const errorMsg = `Failed to initialize WASM module: ${err.message}`;
+          debugLog(errorMsg, true);
+          updateStatus(errorMsg, true);
+          console.error(err);
+
+          // Provide troubleshooting tips
+          debugLog("Troubleshooting tips:", true);
+          debugLog(
+            "1. Make sure you've built the WASM module with: wasm-pack build --target web",
+            true
+          );
+          debugLog(
+            "2. Check that the pkg/ directory exists and contains the compiled WASM",
+            true
+          );
+          debugLog(
+            "3. If serving with a file:// URL, try using a local server instead",
+            true
+          );
+          debugLog(
+            "4. Check browser console for detailed error messages",
+            true
+          );
+        }
+      }
+
+      // Start the application
+      run();
+    </script>
+  </body>
+</html>

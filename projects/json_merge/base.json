@@ -1,0 +1,8 @@
+{
+  "name": "App",
+  "version": "1.0",
+  "features": {
+    "logging": true,
+    "cache": true
+  }
+}

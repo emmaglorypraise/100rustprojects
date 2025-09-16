@@ -1,0 +1,1 @@
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/encrypted_notes/target/debug/encrypted_notes: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/encrypted_notes/src/main.rs

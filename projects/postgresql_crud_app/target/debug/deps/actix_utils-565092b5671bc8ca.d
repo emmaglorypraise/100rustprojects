@@ -1,0 +1,10 @@
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/postgresql_crud_app/target/debug/deps/actix_utils-565092b5671bc8ca.d: /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/lib.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/counter.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/mod.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/either.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/poll_fn.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/ready.rs
+
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/postgresql_crud_app/target/debug/deps/libactix_utils-565092b5671bc8ca.rmeta: /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/lib.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/counter.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/mod.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/either.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/poll_fn.rs /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/ready.rs
+
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/lib.rs:
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/counter.rs:
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/mod.rs:
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/either.rs:
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/poll_fn.rs:
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/ready.rs:

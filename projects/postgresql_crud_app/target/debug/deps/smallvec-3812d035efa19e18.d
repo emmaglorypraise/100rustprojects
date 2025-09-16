@@ -1,0 +1,7 @@
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/postgresql_crud_app/target/debug/deps/smallvec-3812d035efa19e18.d: /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smallvec-1.15.1/src/lib.rs
+
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/postgresql_crud_app/target/debug/deps/libsmallvec-3812d035efa19e18.rlib: /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smallvec-1.15.1/src/lib.rs
+
+/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/postgresql_crud_app/target/debug/deps/libsmallvec-3812d035efa19e18.rmeta: /Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smallvec-1.15.1/src/lib.rs
+
+/Users/GIIPEE/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smallvec-1.15.1/src/lib.rs:

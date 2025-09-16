@@ -1,0 +1,176 @@
+# Personal Information
+name = "Ada Lovelace"
+title = "Mathematician & Programmer"
+email = "ada@analytical.engine"
+phone = "+44 123 4567"
+website = "https://analytical-engine.com/ada"
+location = "London, United Kingdom"
+linkedin = "linkedin.com/in/adalovelace"
+github = "github.com/adalovelace"
+
+# Professional Summary
+summary = """
+Pioneering mathematician and writer chiefly known for my work on Charles Babbage's 
+proposed mechanical general-purpose computer, the Analytical Engine. Recognized as 
+one of the first computer programmers for writing the first algorithm intended to be 
+carried out by a machine. Passionate about advancing computational mathematics and 
+promoting STEM education for women.
+"""
+
+# Work Experience
+[[experience]]
+company = "Analytical Engine Research"
+role = "Lead Algorithm Architect"
+location = "London, UK"
+start_date = "1842-06"
+end_date = "1852-11"
+description = """
+- Designed and documented the first algorithm intended for implementation on Charles Babbage's Analytical Engine
+- Translated and expanded upon Luigi Menabrea's work on the Analytical Engine, tripling the original content
+- Developed concepts that presaged modern programming techniques, including loops and conditional branching
+- Collaborated with engineers to bridge mathematical theory with mechanical computation
+"""
+
+[[experience]]
+company = "Royal Society"
+role = "Scientific Advisor"
+location = "London, UK"
+start_date = "1840-03"
+end_date = "1842-05"
+description = """
+- Advised on the potential applications of computational machinery in scientific research
+- Organized lectures and demonstrations of the Difference Engine for prominent scientists
+- Authored papers on the intersection of mathematics and mechanical computation
+"""
+
+[[experience]]
+company = "British Association for the Advancement of Science"
+role = "Mathematics Consultant"
+location = "London, UK"
+start_date = "1838-01"
+end_date = "1840-02"
+description = """
+- Conducted research on the operational capabilities of computational devices
+- Developed mathematical models for machine operations
+- Presented findings on the potential of computing machinery to transform scientific inquiry
+"""
+
+# Education
+[[education]]
+institution = "University of London"
+degree = "Mathematics Studies"
+location = "London, UK"
+start_date = "1832"
+end_date = "1835"
+description = "Private tutoring with Augustus De Morgan, first professor of mathematics at University of London"
+
+[[education]]
+institution = "Westminster Mathematics Academy"
+degree = "Advanced Mathematics Program"
+location = "London, UK"
+start_date = "1828"
+end_date = "1831"
+
+# Skills
+[skills]
+programming = ["Algorithm Design", "Mathematical Modeling", "Computational Theory"]
+technical = ["Analytical Engine Operation", "Mathematical Proofs", "Technical Writing"]
+languages = ["English (Native)", "French (Fluent)", "Italian (Intermediate)"]
+
+# Certifications
+[[certifications]]
+name = "Advanced Computational Methods"
+issuer = "British Science Association"
+date = "1845-03"
+description = "Certification in advanced algorithmic approaches to complex mathematical problems"
+
+[[certifications]]
+name = "Scientific Communication Excellence"
+issuer = "Royal Institution"
+date = "1843-08"
+
+# Projects
+[[projects]]
+name = "Bernoulli Number Algorithm"
+date = "1843"
+description = """
+Developed the first published algorithm specifically designed for computer implementation.
+This method for calculating Bernoulli numbers demonstrated the potential for machines to 
+perform complex mathematical operations beyond simple calculation.
+"""
+
+[[projects]]
+name = "Analytical Engine Documentation"
+date = "1842-1843"
+description = """
+Translated and extensively annotated Luigi Menabrea's paper on the Analytical Engine,
+adding detailed notes that explained how the machine could be programmed and predicting
+many future applications of computing technology.
+"""
+
+# Awards
+[[awards]]
+title = "Lovelace Medal for Computational Innovation"
+issuer = "British Computer Society"
+date = "1848"
+description = "Awarded for pioneering contributions to computational mathematics"
+
+[[awards]]
+title = "Science Writer of the Year"
+issuer = "Royal Society"
+date = "1844"
+
+# Publications
+[[publications]]
+title = "Notes on the Analytical Engine"
+publisher = "Scientific Memoirs"
+date = "1843-08"
+description = "Comprehensive analysis of the operation and potential of Charles Babbage's Analytical Engine"
+
+[[publications]]
+title = "The Calculus of Operations"
+publisher = "Mathematics Quarterly"
+date = "1841-04"
+description = "Exploration of operational mathematics and its application to mechanical computation"
+
+# Languages
+[[languages]]
+name = "English"
+proficiency = "Native"
+
+[[languages]]
+name = "French"
+proficiency = "Fluent"
+
+[[languages]]
+name = "Italian"
+proficiency = "Intermediate"
+
+# References
+[[references]]
+name = "Charles Babbage"
+relationship = "Collaborator"
+email = "babbage@difference-engine.org"
+phone = "+44 987 6543"
+description = "Professor of Mathematics at Cambridge University and inventor of the Difference Engine"
+
+[[references]]
+name = "Mary Somerville"
+relationship = "Mentor"
+email = "msomerville@royalsociety.org"
+description = "Renowned scientist and mathematician, first person to be described as a 'scientist'"
+
+# Custom section - Speaking Engagements
+[[speaking]]
+event = "Future of Computing Symposium"
+organization = "Royal Institution"
+date = "1845-03-15"
+location = "London, UK"
+description = "Keynote address on the potential of computational machinery to transform scientific discovery"
+
+[[speaking]]
+event = "Women in Mathematics Conference"
+organization = "British Association for the Advancement of Science"
+date = "1843-09-22"
+location = "Cambridge, UK"
+description = "Featured speaker on encouraging women's participation in mathematical sciences"
