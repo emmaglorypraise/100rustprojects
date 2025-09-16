@@ -1,1 +1,0 @@
-/Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/postgresql_crud_app/target/debug/postgresql_crud_app: /Users/GIIPEE/Downloads/Workspace/Learning/Rust/100-Projects/projects/postgresql_crud_app/src/main.rs
