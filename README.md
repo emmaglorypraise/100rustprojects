@@ -1,16 +1,27 @@
 # 🦀 100 Rust Projects Challenge
 
-Welcome to my **#100RustProjects** journey! I am building and shipping 100 Rust projects to learn the language deeply, become a better Rust programmer, and have fun along the way. I'm learning in public and sharing everything I build here — one project, one day at a time.
+![Progress](https://img.shields.io/badge/Completed-100%25-yellowgreen?style=for-the-badge)
+
+A collection of 100 Rust projects — from beginner fundamentals to backend systems and async programming. Built in public as part of the #100RustProjects challenge.
+
+If you're learning Rust and looking for project ideas, this repo is for you. Browse the projects, read the notes, and build something.
 
 ---
 
-## What is This?
+## What's Inside
 
-This repository contains **100 small-to-medium Rust projects**. Each project lives in its own folder with a clear structure and explanation. The goal is to:
+100 small-to-medium Rust projects covering:
 
-- Learn core Rust concepts by building
-- Create a strong portfolio of practical projects
-- Build in public and connect with the Rust community
+- Rust fundamentals: ownership, lifetimes, error handling
+- CLI tools and utilities 
+- Web servers and REST APIs
+- Async programming with Tokio
+- File and data handling
+- Systems programming patterns
+- WebAssembly (WASM)
+- Crates: `tokio`, `serde`, `clap`, `actix`, and more
+
+Each project lives in its own folder with code and notes explaining the concept and implementation.
 
 ---
 
@@ -20,14 +31,6 @@ This repository contains **100 small-to-medium Rust projects**. Each project liv
 - [Daily Notes](./notes/)
 - [Project Code](./projects/)
 - [Glossary](./glossary.md)
-
----
-
-## Progress
-
-<!-- #### ✅ Completed: `100 / 100` -->
-
-![Progress](https://img.shields.io/badge/Completed-100%25-yellowgreen?style=for-the-badge)
 
 ---
 
@@ -52,42 +55,39 @@ Each project follows this folder structure:
 
 ---
 
-## What I'm Learning
+## For Beginners
 
-Throughout this challenge, I’ll explore:
-
-- Rust basics: ownership, lifetimes, error handling
-- CLI development
-- Web servers & REST APIs
-- Async programming
-- File & data handling
-- Using crates like `tokio`, `serde`, `clap`, `actix`, and more
-- WebAssembly (WASM)
-- Systems programming patterns
+Not sure where to start? Check the [Progress Tracker](./progress.md) for the full project list ordered by complexity — start from project 001 and work  your way up, or jump to any topic that interests you.
 
 ---
 
-## Build in Public
+## A Note on These Projects
 
-I'm documenting each day/project on Twitter!
+The projects in this repo are starting points, not finished products. They are intentionally kept simple so the core concept is clear. Feel free to:
 
-Follow my journey: [@emmaglorypraise](https://twitter.com/emmaglorypraise)  
-Hashtags: `#100RustProjects` `#BuildInPublic` `#RustLang`
+- Improve on them
+- Add new features
+- Refactor the code
+- Use them as inspiration for your own projects
 
----
-
-## Contributing / Feedback
-
-Spotted an error? Want to suggest a project idea or improvement?  
-Feel free to [open an issue](https://github.com/emmaglorypraise/100rustprojects/issues) or message me on Twitter. Always open to collaboration and learning together.
+If you build something cool based on any of these, I would love to see it, open an issue, or tag me on X.
 
 ---
 
-<!-- 
-## Support This Journey
+## Support This Repo
 
-If you like what I’m doing, consider:
-- Starring this repo
-- Retweeting my progress
+If this repo has been useful to you, consider giving it a ⭐.
+It helps more Rust beginners find it.
 
-Let’s learn Rust — one project at a time! 🦀
+## Contributing
+
+Found an error or want to suggest a project idea?  
+Open an [issue](https://github.com/emmaglorypraise/100rustprojects/issues) or reach out on X [@emmaglorypraise](https://twitter.com/emmaglorypraise)
+
+---
+
+Built by [Glory Praise Emmanuel](https://github.com/emmaglorypraise) · [glorypraise.hashnode.dev](https://glorypraise.hashnode.dev)
+
+---
+
+
