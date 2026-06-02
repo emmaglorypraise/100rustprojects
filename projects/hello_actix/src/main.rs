@@ -71,7 +71,7 @@ async fn health_check() -> impl Responder {
     })
 }
 
-#[post("/api/greet")]
+#[get("/api/greet")]
 async fn greet_api(
     data: web::Data<AppState>,
     query: web::Query<GreetingRequest>,
